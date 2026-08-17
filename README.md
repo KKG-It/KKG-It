@@ -25,3 +25,5 @@ Denne kontoen forvalter kode, konfigurasjon og verktøy som IT-avdelingen bruker
 ---
 
 <sub>Agder fylkeskommune</sub>
+
+![GitHub Mini Badge](https://ghstats.dev/api/mini?username=KKG-IT&metric=commits&style=for-the-badge)
