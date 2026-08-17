@@ -1,16 +1,18 @@
-## Hi there 👋
+<picture>
+  <img alt="KKG vgs" src="https://img.shields.io/badge/KKG_vgs-IT--avdelingen-E01F1D?style=for-the-badge&labelColor=352D86" />
+</picture>
 
-<!--
-**KKG-It/KKG-It** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# KKG vgs – IT-avdelingen
 
-Here are some ideas to get you started:
+Offisiell GitHub-konto for IT-avdelingen ved **Kristiansand Katedralskole Gimle (KKG)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Kontoen brukes til å samle kode, konfigurasjon og verktøy som IT-avdelingen
+forvalter i sitt daglige arbeid.
+
+Dirftes av [Victor H.](https://github.com/ggv7373)
+Skolens nettside: [kkg.vgs.no](https://kkg.vgs.no/)
+
+
+---
+
+<sub>Agder fylkeskommune</sub>
