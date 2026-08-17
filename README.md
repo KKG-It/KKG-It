@@ -1,16 +1,25 @@
-<picture>
-  <img alt="KKG vgs" src="https://img.shields.io/badge/KKG_vgs-IT--avdelingen-E01F1D?style=for-the-badge&labelColor=352D86" />
-</picture>
+<!-- KKG vgs – IT-avdelingen - Under Agder fylkeskommune -->
+
+![AGDER fylkeskommune](https://img.shields.io/badge/AGDER-fylkeskommune-E01F1D?style=flat-square&labelColor=352D86)
 
 # KKG vgs – IT-avdelingen
 
-Offisiell GitHub-konto for IT-avdelingen ved **Kristiansand Katedralskole Gimle (KKG)**.
+**Offisiell GitHub-konto for IT-avdelingen ved Kristiansand Katedralskole Gimle (KKG)**
 
-Kontoen brukes til å samle kode, konfigurasjon og verktøy som IT-avdelingen
-forvalter i sitt daglige arbeid.
+Denne kontoen forvalter kode, konfigurasjon og verktøy som IT-avdelingen bruker i daglig drift.
+> Del av **Agder fylkeskommune** – Regionens digitale infrastruktur
 
-Dirftes av [Victor H.](https://github.com/ggv7373)
-Skolens nettside: [kkg.vgs.no](https://kkg.vgs.no/)
+
+
+
+## 👥 Kontakt
+
+| Kontakt | Detalj |
+|---------|--------|
+| **Ansvarlig** | [Victor H.](https://github.com/ggv7373) |
+| **Lokasjon** | Rom 3134, bygg 3, ingang 3.3 |
+| **Åpningstid** | 08:00 – 15:30 (hverdager) |
+| **Nettside** | [kkg.vgs.no](https://kkg.vgs.no) |
 
 
 ---
